@@ -12,12 +12,12 @@ export default function Header() {
         {
             id: 2,
             name: "Explore",
-            path: '/'
+            path: '/explore'
         },
         {
             id: 3,
             name: "Contact",
-            path: '/'
+            path: '/contact'
         },
     ]
 
